@@ -3,7 +3,7 @@ title: "はじめての zenn"
 emoji: "😊"
 type: "idea"
 topics: ["markdown"]
-published: false
+published: true
 ---
 
 ## はじめての zenn
